@@ -67,4 +67,4 @@ No build tools, installations, or servers required.
 
 ## 📄 License
 
-MIT License. Free to use, modify, and distribute.
+No License. Use it for free.
