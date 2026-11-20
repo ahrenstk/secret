@@ -3,7 +3,6 @@
 > A minimalist, zero-dependency, single-file web tool for 100% client-side text encryption and decryption using the native Web Crypto API.
 
 
-**Demo**: **[https://ahrenstk.github.io/secret](https://ahrenstk.github.io/secret)**
 ---
 
 ## ✨ Features
